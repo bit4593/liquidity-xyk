@@ -1,4 +1,4 @@
-# mdbook-template
+# liquidity-xyk
 
 ## GitHub Pages Hosted Link
 
