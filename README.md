@@ -2,7 +2,7 @@
 
 ## GitHub Pages Hosted Link
 
-https://marcuswentz.github.io/mdbook-template/
+https://marcuswentz.github.io/liquidity-xyk/
 
 ## Install mdbook
 
